@@ -26,3 +26,6 @@ Ce projet vise à aider les développeurs à démarrer rapidement leurs projets 
 - **Python**
 
 - **PHP**
+  - Symfony
+
+- **HTML/CSS/JS**

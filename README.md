@@ -1,4 +1,4 @@
-# Project Structures Guide
+# Template pour structurer vos futurs projets
 
 Project Structures Guide est un guide complet qui fournit des structures de dossiers optimales pour divers langages de programmation et frameworks. 
 

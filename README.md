@@ -1,10 +1,10 @@
-# Template pour structurer vos futurs projets
+# Template pour structurer vos futurs projets 🗂️
 
 Project Structures Guide est un guide complet qui fournit des structures de dossiers optimales pour divers langages de programmation et frameworks. 
 
 Ce projet vise à aider les développeurs à démarrer rapidement leurs projets en utilisant les meilleures pratiques pour chaque technologie.
 
-## Fonctionnalités
+## 🚀 Fonctionnalités
 
 - Structures de dossiers organisées pour plusieurs langages et frameworks.
 - Exemples de fichiers et configurations de base.
@@ -12,7 +12,7 @@ Ce projet vise à aider les développeurs à démarrer rapidement leurs projets 
 - Prise en charge de JavaScript/TypeScript, Java, C#, Python, PHP, et plus encore.
 - Guide de contribution pour ajouter de nouvelles structures ou améliorer les existantes.
 
-## Langages et Frameworks Supportés
+## 💻 Langages et Frameworks Supportés
 
 - **JavaScript/TypeScript**
   - React

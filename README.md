@@ -19,13 +19,13 @@ Ce projet vise à aider les développeurs à démarrer rapidement leurs projets 
   - Angular
   - Node.js
 
+- **PHP**
+  - Symfony
+
 - **Java**
   
 - **C#**
 
 - **Python**
-
-- **PHP**
-  - Symfony
 
 - **HTML/CSS/JS**
